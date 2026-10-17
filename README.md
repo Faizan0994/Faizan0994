@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack web developer with a strong foundation in core JavaScript. I build projects from scratch to deeply understand how things work under the hood, then scale them using modern tools like React, Node.js, and PostgreSQL
+Full-stack AI Engineer with a strong foundation in programming. I build projects from scratch to deeply understand how things work under the hood, then scale them using modern tools like React, Node.js, and PostgreSQL and agentic AI solutions
 
 
 ## 🌐 Socials:
